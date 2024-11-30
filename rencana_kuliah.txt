@@ -4,3 +4,4 @@ GUFRAN RESOLUSI
 - Membuat website portfolio
 - Membuat aplikasi sederhana
 - Menguasai GIT & GITHub
+- Mendapatkan nilai bagus
